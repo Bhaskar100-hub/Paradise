@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/legion/AndroidStudioProjects/Paradise/app/src/main/res/drawable/ic_action_add_24dp.xml" value="0.123" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/Paradise/app/src/main/res/layout/activity_add_happy_place.xml" value="0.2359375" />
         <entry key="..\:/Users/legion/AndroidStudioProjects/Paradise/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
